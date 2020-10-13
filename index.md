@@ -1,8 +1,10 @@
 ## Welcome to the Data Revolution
 
-You can use the [editor on GitHub](https://github.com/rafsestevam/rafsestevam.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Olá, meu nome é Rafael Guerra [Linkedin](https://www.linkedin.com/in/rafaelestevamguerra/). Sou estudante de Linguística na Universidade de São Paulo (4/8), realizei cursos de Educação Executiva em Ciência de Dados e Big Data no Insper, Singularity University e na FGV EAESP.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sou apaixonado por dados, inteligência artificial e, principalmente, por Big Data! Você vai encontrar nesse repositório muitas informações que venho captando ao longo do caminho, principalmente na construção de _web-apps_ em Python usando bibliotecas como streamlit e pandas. Ademais, também trabalho com Processamento de Linguagem Natural.
+
+Periodicamente atualizo este repositório com códigos para PLN, chatbots e, também, para deepfake de voz. Todas licenças são MIT – sinta-se livre para utilizar estes códigos como quiser. Também não é necessário dar créditos ao criador.
 
 ### Markdown
 

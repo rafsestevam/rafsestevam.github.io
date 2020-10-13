@@ -2,7 +2,9 @@
 
 Olá, meu nome é Rafael Guerra <[Linkedin](https://www.linkedin.com/in/rafaelestevamguerra/)>. Sou estudante de Linguística na Universidade de São Paulo (4/8), realizei cursos de Educação Executiva em Ciência de Dados e Big Data no Insper, Singularity University e na FGV EAESP.
 
-Sou apaixonado por dados, inteligência artificial e, principalmente, por Big Data! Você vai encontrar nesse repositório muitas informações que venho captando ao longo do caminho, principalmente na construção de _web-apps_ em Python usando bibliotecas como streamlit e pandas. Ademais, também trabalho com Processamento de Linguagem Natural.
+Sou apaixonado por dados, inteligência artificial e, principalmente, por Big Data! 
+
+Você vai encontrar nesse repositório muitas informações que venho captando ao longo do caminho, principalmente na construção de _web-apps_ em Python usando bibliotecas como streamlit e pandas. Ademais, também trabalho com Processamento de Linguagem Natural.
 
 Periodicamente atualizo este repositório com códigos para PLN, chatbots e, também, para deepfake de voz. Todas licenças são MIT – sinta-se livre para utilizar estes códigos como quiser. Também não é necessário dar créditos ao criador.
 

@@ -1,6 +1,6 @@
 ## Welcome to the Data Revolution
 
-Olá, meu nome é Rafael Guerra [Linkedin](https://www.linkedin.com/in/rafaelestevamguerra/). Sou estudante de Linguística na Universidade de São Paulo (4/8), realizei cursos de Educação Executiva em Ciência de Dados e Big Data no Insper, Singularity University e na FGV EAESP.
+Olá, meu nome é Rafael Guerra <[Linkedin](https://www.linkedin.com/in/rafaelestevamguerra/)>. Sou estudante de Linguística na Universidade de São Paulo (4/8), realizei cursos de Educação Executiva em Ciência de Dados e Big Data no Insper, Singularity University e na FGV EAESP.
 
 Sou apaixonado por dados, inteligência artificial e, principalmente, por Big Data! Você vai encontrar nesse repositório muitas informações que venho captando ao longo do caminho, principalmente na construção de _web-apps_ em Python usando bibliotecas como streamlit e pandas. Ademais, também trabalho com Processamento de Linguagem Natural.
 

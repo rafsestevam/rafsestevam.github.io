@@ -20,7 +20,7 @@ CODE
 
 ### DelugerStream
 
-Recentemente comecei a trabalhar em um web-app em Python programado com a biblioteca streamlit e outras bibliotecas de análise e visualização de dados. Também estou trabalhando em cima de adicionar camadas de inteligência artificial a este programa para que as análises sejam mais robustas e sofisticadas. Abaixo você encontra o código completo.
+Recentemente comecei a trabalhar em um web-app autoral em Python programado com a biblioteca streamlit e outras bibliotecas de análise e visualização de dados. Também estou trabalhando em cima de adicionar camadas de inteligência artificial a este programa para que as análises sejam mais robustas e sofisticadas. Abaixo você encontra o código completo.
 
 CÓDIGO JÁ COM COMENTÁRIOS
 
@@ -295,7 +295,7 @@ CODE
 
 ### Falmisgeraldo
 
-Este é meu projeto mais recente, é um sandbox onde estou construindo diversas soluções de big data, data analytics e NLP usando Python e treinando sets utilizando GPUs comuns – não obstante, este projeto também contempla fortemente a construção de modelos de aprendizado profundo para reconhecimento de padrões em séries temporais e, também, na análise de performance de vendas.
+Este é meu projeto autoral mais recente, é um sandbox onde estou construindo diversas soluções de big data, data analytics e NLP usando Python e treinando sets utilizando GPUs comuns – não obstante, este projeto também contempla fortemente a construção de modelos de aprendizado profundo para reconhecimento de padrões em séries temporais e, também, na análise de performance de vendas.
 
 CÓDIGO JÁ COM COMENTÁRIOS
 

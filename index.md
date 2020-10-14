@@ -10,6 +10,14 @@ Periodicamente atualizo este repositório com códigos para PLN, chatbots e, tam
 
 Você pode me encontrar em reguerra@datadeluge.com.br
 
+### Viz2Biz
+
+Projeto autoral de web-app automatizado para visualização de dados com foco em inteligência de negócios. Projeto com a utilização de Inteligência Artificial e linkado a uma página web, o Viz2Biz é um sistema ready-to-use de alto nível de segurança.
+
+```
+CODE
+```
+
 ### DelugerStream
 
 Recentemente comecei a trabalhar em um web-app em Python programado com a biblioteca streamlit e outras bibliotecas de análise e visualização de dados. Também estou trabalhando em cima de adicionar camadas de inteligência artificial a este programa para que as análises sejam mais robustas e sofisticadas. Abaixo você encontra o código completo.

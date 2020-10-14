@@ -14,6 +14,8 @@ Você pode me encontrar em reguerra@datadeluge.com.br
 
 Recentemente comecei a trabalhar em um web-app em Python programado com a biblioteca streamlit e outras bibliotecas de análise e visualização de dados. Também estou trabalhando em cima de adicionar camadas de inteligência artificial a este programa para que as análises sejam mais robustas e sofisticadas. Abaixo você encontra o código completo.
 
+CÓDIGO JÁ COM COMENTÁRIOS
+
 ```markdown
 CODE
 ```
@@ -21,6 +23,8 @@ CODE
 ### BoneBreaker
 
 Este é um projeto que estou trabalhando já algum tempo para aprimorar um modelo de _deepfake_ e clonagem de voz para chatbots e assistentes pessoais, meus sets são treinados utilizando GPUs comuns e programados em Python – este projeto utiliza o código-base desenhado por Edresson Casanova.
+
+## CÓDIGO ORIGINAL
 
 ```markdown
 CÓDIGO-BASE EM PYTHON BY EDRESSON CASANOVA
@@ -275,9 +279,17 @@ while True:
   #IPython.display.display(Audio(wav, rate=ap.sample_rate))
 ```
 
+## CÓDIGO ADAPTADO
+
+```
+CODE
+```
+
 ### Falmisgeraldo
 
 Este é meu projeto mais recente, é um sandbox onde estou construindo diversas soluções de big data, data analytics e NLP usando Python e treinando sets utilizando GPUs comuns – não obstante, este projeto também contempla fortemente a construção de modelos de aprendizado profundo para reconhecimento de padrões em séries temporais e, também, na análise de performance de vendas.
+
+CÓDIGO JÁ COM COMENTÁRIOS
 
 ```markdown
 CODE

@@ -1,6 +1,6 @@
 ## Welcome to the Data Revolution
 
-Olá, meu nome é Rafael Guerra <[Linkedin](https://www.linkedin.com/in/rafaelestevamguerra/)>. Sou estudante de Linguística na Universidade de São Paulo (4/8), realizei cursos de Educação Executiva em Ciência de Dados e Big Data no Insper, Singularity University e na FGV EAESP.
+Olá, meu nome é Rafael Guerra <[Linkedin](https://www.linkedin.com/in/rafaelestevamguerra/)>. Sou estudante de Linguística na Universidade de São Paulo (4/8), realizei cursos de Educação Executiva em Ciência de Dados e Big Data no Insper, Singularity University e na FGV EAESP. Participei ativamente e fui selecionado para 4ª Escola Avançada em Big Data Analysis promovido pelo Instituto de Ciências Matemáticas e Computação da USP São Carlos.
 
 Sou apaixonado por dados, inteligência artificial e, principalmente, por Big Data! 
 
@@ -10,7 +10,7 @@ Periodicamente atualizo este repositório com códigos para PLN, chatbots e, tam
 
 Você pode me encontrar em reguerra@datadeluge.com.br
 
-### DataStream
+### DelugerStream
 
 Recentemente comecei a trabalhar em um web-app em Python programado com a biblioteca streamlit e outras bibliotecas de análise e visualização de dados. Também estou trabalhando em cima de adicionar camadas de inteligência artificial a este programa para que as análises sejam mais robustas e sofisticadas. Abaixo você encontra o código completo.
 

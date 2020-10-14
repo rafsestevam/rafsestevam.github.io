@@ -6,36 +6,30 @@ Sou apaixonado por dados, inteligência artificial e, principalmente, por Big Da
 
 Você vai encontrar nesse repositório muitas informações que venho captando ao longo do caminho, principalmente na construção de _web-apps_ em Python usando bibliotecas como streamlit e pandas. Ademais, também trabalho com Processamento de Linguagem Natural.
 
-Periodicamente atualizo este repositório com códigos para PLN, chatbots e, também, para deepfake de voz. Todas licenças são MIT – sinta-se livre para utilizar estes códigos como quiser. Também não é necessário dar créditos ao criador.
+Periodicamente atualizo este repositório com códigos para PLN, chatbots e, também, para deepfake e clonagem de voz. Todas licenças são MIT – sinta-se livre para utilizar estes códigos como quiser. Também não é necessário dar créditos ao criador.
 
-### Markdown
+Você pode me encontrar em reguerra@datadeluge.com.br
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### DataStream
+
+Recentemente comecei a trabalhar em um web-app em Python programado com a biblioteca streamlit e outras bibliotecas de análise e visualização de dados. Também estou trabalhando em cima de adicionar camadas de inteligência artificial a este programa para que as análises sejam mais robustas e sofisticadas. Abaixo você encontra o código completo.
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+CODE
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### BoneBreaker
 
-### Jekyll Themes
+Este é um projeto que estou trabalhando já algum tempo para aprimorar um modelo de _deepfake_ e clonagem de voz para chatbots e assistentes pessoais, meus sets são treinados utilizando GPUs comuns e programados em Python – ademais, este projeto também contempla fortemente a construção de chatbots interativos em texto. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rafsestevam/rafsestevam.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+```markdown
+CODE
+```
 
-### Support or Contact
+### Falmisgeraldo
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Este é meu projeto mais recente, é um sandbox onde estou construindo diversas soluções de big data, data analytics e NLP usando Python e treinando sets utilizando GPUs comuns – não obstante, este projeto também contempla fortemente a construção de modelos de aprendizado profundo para reconhecimento de padrões em séries temporais e, também, na análise de performance de vendas.
+
+```markdown
+CODE
+```
